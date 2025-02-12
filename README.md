@@ -131,6 +131,3 @@ This project demonstrates the process of migrating a large dataset from a local 
 ## Author
 Anish Babu Gogineni
 
-## License
-This project is licensed under the MIT License.
-
